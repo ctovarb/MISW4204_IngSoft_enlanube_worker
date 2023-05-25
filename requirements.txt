@@ -1,0 +1,11 @@
+
+google-cloud-storage
+google-cloud-pubsub
+Flask-SQLAlchemy
+flask
+SQLAlchemy==1.3.12
+pg8000==1.13.2
+marshmallow
+marshmallow-sqlalchemy
+typed-ast
+psycopg2-binary==2.9.6
